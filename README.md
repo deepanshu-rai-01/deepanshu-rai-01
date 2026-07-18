@@ -54,3 +54,8 @@ To secure a Data Analyst role where I can apply my analytical thinking, Python p
 ---
 
 ⭐ Thank you for visiting my GitHub profile!
+
+---------------------
+
+![GitHub Streak](https://streak-stats.demolab.com?user=deepanshu-rai-01&theme=tokyonight)
+
