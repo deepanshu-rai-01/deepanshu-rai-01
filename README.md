@@ -60,3 +60,36 @@ To secure a Data Analyst role where I can apply my analytical thinking, Python p
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=deepanshu-rai-01&theme=tokyonight)
 
+-------------------------
+## 🏆 Certifications
+
+- Python Programming
+- SQL Basics
+- Power BI Fundamentals
+
+*(Update this section as you earn more certificates.)*
+
+---
+
+## 🤝 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-deepanshu--rai--01-181717?style=for-the-badge&logo=github)](https://github.com/deepanshu-rai-01)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Coming_Soon-0A66C2?style=for-the-badge&logo=linkedin)]()
+
+---
+
+## 📊 Profile Views
+
+![Profile Views](https://komarev.com/ghpvc/?username=deepanshu-rai-01&label=Profile%20Views&color=0e75b6&style=flat)
+
+---
+
+## 💡 Quote
+
+> "Consistency beats talent when talent doesn't work consistently."
+
+---
+
+### ⭐ Thanks for visiting my profile!
+If you like my projects, don't forget to ⭐ star the repositories.
