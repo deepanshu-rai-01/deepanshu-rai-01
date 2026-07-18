@@ -1,44 +1,56 @@
 # Hi 👋, I'm Deepanshu Rai
 
-## 🚀 Aspiring Data Analyst
+## 🚀 Aspiring Data Analyst | Python Developer
 
-I am a B.Com (Hons.) graduate passionate about Data Analytics and Python development. I enjoy solving real-world problems by building practical projects and continuously learning new technologies.
+I am a B.Com (Hons.) graduate passionate about Data Analytics, Python programming, and problem-solving. I enjoy building practical projects, analyzing data, and continuously learning new technologies to improve my technical skills.
 
-### 💻 Tech Stack
+---
+
+## 💻 Tech Stack
+
 - 🐍 Python
 - 🗄 SQL
 - 📊 Power BI
 - 📈 Microsoft Excel
 - 🐼 Pandas
 - 🔢 NumPy
+- 🧮 Object-Oriented Programming (OOP)
 
-### 📂 Current Projects
-- Python Calculator
-- Password Generator
-- Voice Assistant
-- Lift Simulation System
-- Employee Salary Management System
-- Student Performance Analytics
+---
 
-### 🎯 Current Goal
-To become a skilled Data Analyst by building real-world projects and continuously improving my technical skills.
+## 📂 Featured Projects
 
-### 📫 Contact
-📧 deepanshurai866@gmail.com
+- 🧮 Python Calculator
+- 🔐 Password Generator
+- 🎙 Voice Assistant
+- 🛗 Lift Simulation System
+- 💼 Employee Salary Management System
+- 📊 Student Performance Analytics
+- 🐍 Snake Game
+- 🚗 Car Racing Game
 
-⭐ Thanks for visiting my profile!
+---
 
-<!--
-**deepanshu-rai-01/deepanshu-rai-01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🌱 Currently Learning
 
-Here are some ideas to get you started:
+- Advanced Python
+- Data Analysis with Pandas
+- Power BI Dashboard Development
+- SQL for Data Analytics
+- Git & GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎯 Career Objective
+
+To secure a Data Analyst role where I can apply my analytical thinking, Python programming, SQL, and Power BI skills to solve real-world business problems while continuously learning and growing.
+
+---
+
+## 📫 Contact
+
+📧 Email: **deepanshurai866@gmail.com**
+
+---
+
+⭐ Thank you for visiting my GitHub profile!
