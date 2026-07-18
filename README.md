@@ -21,14 +21,14 @@ I am a B.Com (Hons.) graduate passionate about Data Analytics, Python programmin
 
 ## 📂 Featured Projects
 
-- 🧮 Python Calculator
-- 🔐 Password Generator
-- 🎙 Voice Assistant
-- 🛗 Lift Simulation System
-- 💼 Employee Salary Management System
-- 📊 Student Performance Analytics
-- 🐍 Snake Game
-- 🚗 Car Racing Game
+- 🧮 [Python Calculator](https://github.com/deepanshu-rai-01/Python-Calculator)
+- 🔐 [Password Generator](https://github.com/deepanshu-rai-01/Password-Generator)
+- 🎙 [Voice Assistant](https://github.com/deepanshu-rai-01/Voice-Assistant)
+- 🛗 [Lift Simulation System](https://github.com/deepanshu-rai-01/Lift-Simulation)
+- 💼 [Employee Salary Management System](https://github.com/deepanshu-rai-01/Employee-Salary-System)
+- 📊 [Student Performance Analytics](https://github.com/deepanshu-rai-01/Student-Performance-Analytics)
+- 🐍 [Snake Game](https://github.com/deepanshu-rai-01/Snake-Game)
+- 🚗 [Car Racing Game](https://github.com/deepanshu-rai-01/Car-Racing-Game)
 
 ---
 
