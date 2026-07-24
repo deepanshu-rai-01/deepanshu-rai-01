@@ -1,185 +1,154 @@
-<div align="center">
+<h1 align="center">👋 Hi, I'm Deepanshu Rai</h1>
 
-# 👋 Hi, I'm Deepanshu Rai
+<h3 align="center">
+Data Analyst | Python Developer | SQL | Power BI | Excel
+</h3>
 
-### 📊 Data Analyst | Python Developer | SQL | Power BI | Excel
-
+<p align="center">
 Turning raw data into meaningful insights through analytics, automation, and interactive dashboards.
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=25&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Data+Analyst;Python+Developer;SQL+%7C+Power+BI+%7C+Excel;Always+Learning+New+Technologies" />
-
-![](https://komarev.com/ghpvc/?username=deepanshu-rai-01&style=for-the-badge&color=blue)
-
-</div>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=deepanshu-rai-01&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+</p>
 
 ---
 
 # 🚀 About Me
 
-I'm a **B.Com (Hons.) Graduate** passionate about transforming data into business insights.
+🎓 B.Com (Hons.) Graduate
 
-I enjoy solving real-world business problems using:
+📊 Aspiring Data Analyst
 
-- 📊 Data Analysis
-- 🐍 Python Automation
-- 🗄 SQL
-- 📈 Power BI Dashboards
-- 📉 Excel Analytics
+🐍 Python Developer
 
-I believe in learning by building projects.
+📈 Passionate about Data Analytics & Business Intelligence
 
-Currently working on improving my skills every single day to become an industry-ready Data Analyst.
+💡 I enjoy solving real-world business problems using Python, SQL, Excel, and Power BI.
 
 ---
 
-# 💻 Tech Stack
+# 🛠 Tech Stack
 
-<p align="center">
+### Programming
 
-<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-</p>
+### Database
 
-<p align="center">
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+### Data Analytics
 
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
-</p>
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+### Version Control
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ---
 
 # 📂 Featured Projects
 
-### 📊 Sales Data Analysis Dashboard
+## 📊 Sales Data Analysis Dashboard
 
 Python + SQL + Excel + Power BI
 
-✔ Data Cleaning
-
-✔ KPI Analysis
-
-✔ Dashboard Design
-
-✔ Business Insights
+Business dashboard with KPIs, revenue analysis, delivery insights, restaurant performance and interactive filters.
 
 🔗 https://github.com/deepanshu-rai-01/Sales-Data-Analysis
 
 ---
 
-### 🧮 Python Calculator
+## 🎓 Student Performance Analytics
 
-Python GUI Calculator
+Python | Pandas | Excel
 
-🔗 https://github.com/deepanshu-rai-01/Python-Calculator
-
----
-
-### 🔐 Password Generator
-
-Python Random Password Generator
-
-🔗 https://github.com/deepanshu-rai-01/Password-Generator
+Student marks analysis and visualization.
 
 ---
 
-### 🎙 Voice Assistant
+## 💼 Employee Salary Management
 
-Desktop Voice Assistant using Python
+Python
 
-🔗 https://github.com/deepanshu-rai-01/Voice-Assistant
-
----
-
-### 🛗 Lift Simulation System
-
-Python OOP Project
-
-🔗 https://github.com/deepanshu-rai-01/Lift-Simulation
+Employee management with salary calculations.
 
 ---
 
-### 👨‍💼 Employee Salary Management
+## 🐍 Snake Game
 
-Python OOP Project
+Python + Pygame
 
-🔗 https://github.com/deepanshu-rai-01/Employee-Salary-System
-
----
-
-### 📈 Student Performance Analytics
-
-Python Data Analysis
-
-🔗 https://github.com/deepanshu-rai-01/Student-Performance-Analytics
+Classic Snake Game built using Python.
 
 ---
 
-### 🐍 Snake Game
+## 🚗 Car Racing Game
 
-Python Tkinter
+Python + Pygame
 
-🔗 https://github.com/deepanshu-rai-01/Snake-Game
-
----
-
-### 🚗 Car Racing Game
-
-Python Game Development
-
-🔗 https://github.com/deepanshu-rai-01/Car-Racing-Game
+Interactive racing game with score tracking.
 
 ---
 
-# 🌱 Currently Learning
+## 🔐 Password Generator
 
-- Advanced Python
-- Data Structures
-- SQL Optimization
-- Power BI
-- Machine Learning Basics
-- Statistics for Data Analysis
+Python
+
+Secure random password generator.
 
 ---
 
-# 📈 GitHub Stats
+## 🎙 Voice Assistant
 
-<p align="center">
+Python
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=deepanshu-rai-01&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshu-rai-01&layout=compact&theme=tokyonight"/>
-
-</p>
+Voice-controlled desktop assistant.
 
 ---
 
-# 🔥 GitHub Streak
+## 🛗 Lift Simulation System
 
-<p align="center">
+Python
 
-<img src="https://streak-stats.demolab.com?user=deepanshu-rai-01&theme=tokyonight"/>
-
-</p>
+Object-oriented elevator simulation.
 
 ---
 
-# 🏆 GitHub Trophies
+# 📈 Currently Learning
 
-<p align="center">
+✔ Advanced SQL
 
-<img src="https://github-profile-trophy.vercel.app/?username=deepanshu-rai-01&theme=tokyonight&margin-w=10"/>
+✔ Power BI
 
-</p>
+✔ Pandas
+
+✔ NumPy
+
+✔ Data Visualization
+
+✔ Data Cleaning
+
+✔ Business Analytics
 
 ---
 
-# 📫 Contact
+# 🎯 Career Goal
+
+I am looking for opportunities as a Data Analyst where I can apply my analytical thinking and technical skills to solve business problems and create meaningful insights from data.
+
+---
+
+# 📫 Contact Me
 
 📧 Email
 
@@ -187,30 +156,34 @@ deepanshurai866@gmail.com
 
 ---
 
-# 💼 Looking For
+# 🏆 Certifications
 
-✅ Data Analyst Internship
+✔ Python Programming
 
-✅ Data Analyst Job
+✔ SQL Basics
 
-✅ Python Projects
+✔ Power BI Fundamentals
 
-✅ SQL Projects
-
-✅ Power BI Dashboard Development
+(More certifications coming soon...)
 
 ---
 
-# 💡 Quote
+# 🤝 Connect With Me
 
-> "Success doesn't come from what you do occasionally. It comes from what you do consistently."
+GitHub
+
+https://github.com/deepanshu-rai-01
+
+LinkedIn
+
+Coming Soon...
 
 ---
 
-<div align="center">
+# 💬 Quote
 
-### ⭐ Thanks for visiting my profile.
+> "Data tells stories. Analysts make them meaningful."
 
-If you like my work, consider giving a ⭐ to my repositories.
+---
 
-</div>
+⭐ If you like my work, consider giving a ⭐ to my repositories.
