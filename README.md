@@ -1,162 +1,215 @@
-<h1 align="center">👋 Hi, I'm Deepanshu Rai</h1>
+<div align="center">
 
-<h3 align="center">
-Data Analyst | Python Developer | SQL | Power BI | Excel
-</h3>
+# 👋 Hi, I'm Deepanshu Rai
 
-<p align="center">
-Turning raw data into meaningful insights through analytics, automation, and interactive dashboards.
-</p>
+### 📊 Aspiring Data Analyst | Python Developer | Power BI Enthusiast
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=deepanshu-rai-01&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Turning+Data+Into+Business+Insights;Python+Developer;SQL+%7C+Power+BI+%7C+Excel;Always+Learning+New+Technologies" />
+
+</div>
 
 ---
 
 # 🚀 About Me
 
-🎓 B.Com (Hons.) Graduate
+I'm a passionate **Data Analyst** who enjoys transforming raw data into meaningful insights.
 
-📊 Aspiring Data Analyst
+I love solving business problems using **Python, SQL, Excel, Power BI, Pandas, and NumPy**.
+
+🎓 **B.Com (Hons.) Graduate**
+
+📊 Aspiring **Data Analyst**
 
 🐍 Python Developer
 
-📈 Passionate about Data Analytics & Business Intelligence
+🗄️ SQL Enthusiast
 
-💡 I enjoy solving real-world business problems using Python, SQL, Excel, and Power BI.
+📈 Power BI Dashboard Developer
+
+📑 Excel Automation
+
+🌱 Currently improving my skills in
+
+- Advanced SQL
+- Power BI
+- Data Visualization
+- Statistics
+- Python Automation
+- Business Intelligence
+
+💼 **Career Goal**
+
+> To become a professional Data Analyst and build data-driven solutions that help businesses make smarter decisions.
 
 ---
 
 # 🛠 Tech Stack
 
-### Programming
+<p align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
 
-### Database
+</p>
 
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+<p align="center">
 
-### Data Analytics
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+<img src="https://img.shields.io/badge/Microsoft%20Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### Version Control
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+</p>
 
 ---
 
-# 📂 Featured Projects
+# 📊 GitHub Overview
 
-## 📊 Sales Data Analysis Dashboard
+<p align="center">
 
-Python + SQL + Excel + Power BI
+<img src="https://komarev.com/ghpvc/?username=deepanshu-rai-01&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
 
-Business dashboard with KPIs, revenue analysis, delivery insights, restaurant performance and interactive filters.
+<img src="https://img.shields.io/github/followers/deepanshu-rai-01?style=for-the-badge"/>
 
-🔗 https://github.com/deepanshu-rai-01/Sales-Data-Analysis
+<img src="https://img.shields.io/github/stars/deepanshu-rai-01?style=for-the-badge"/>
+
+</p>
+
+---
+# 📈 GitHub Statistics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=deepanshu-rai-01&show_icons=true&theme=tokyonight&hide_border=true&border_radius=15&rank_icon=github"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshu-rai-01&layout=compact&theme=tokyonight&hide_border=true&border_radius=15"/>
+
+</div>
 
 ---
 
-## 🎓 Student Performance Analytics
+# 🔥 Contribution Streak
 
-Python | Pandas | Excel
+<div align="center">
 
-Student marks analysis and visualization.
+<img src="https://streak-stats.demolab.com?user=deepanshu-rai-01&theme=tokyonight&hide_border=true&border_radius=15"/>
 
----
-
-## 💼 Employee Salary Management
-
-Python
-
-Employee management with salary calculations.
+</div>
 
 ---
 
-## 🐍 Snake Game
+# 🏆 GitHub Trophies
 
-Python + Pygame
+<div align="center">
 
-Classic Snake Game built using Python.
+<img src="https://github-profile-trophy.vercel.app/?username=deepanshu-rai-01&theme=tokyonight&no-frame=true&row=1&column=6"/>
 
----
-
-## 🚗 Car Racing Game
-
-Python + Pygame
-
-Interactive racing game with score tracking.
+</div>
 
 ---
+# 🚀 Featured Projects
 
-## 🔐 Password Generator
+<table>
 
-Python
+<tr>
 
-Secure random password generator.
+<td width="50%">
 
----
+### 📊 Sales Data Analysis Dashboard
 
-## 🎙 Voice Assistant
-
-Python
-
-Voice-controlled desktop assistant.
-
----
-
-## 🛗 Lift Simulation System
-
-Python
-
-Object-oriented elevator simulation.
-
----
-
-# 📈 Currently Learning
-
-✔ Advanced SQL
-
-✔ Power BI
-
-✔ Pandas
-
-✔ NumPy
-
-✔ Data Visualization
+Python, SQL, Excel & Power BI based end-to-end Business Intelligence Project.
 
 ✔ Data Cleaning
 
-✔ Business Analytics
+✔ Data Analysis
+
+✔ KPI Dashboard
+
+✔ Interactive Visualizations
+
+✔ Business Insights
+
+🔗 https://github.com/deepanshu-rai-01/Sales-Data-Analysis
+
+</td>
+
+<td width="50%">
+
+### 🐍 Student Performance Analytics
+
+Python project for analyzing student performance with grading system and detailed reports.
+
+🔗 https://github.com/deepanshu-rai-01/Student-Performance-Analytics
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 💼 Employee Salary Management
+
+Python OOP based Salary Management System with reports and calculations.
+
+🔗 https://github.com/deepanshu-rai-01/Employee-Salary-System
+
+</td>
+
+<td>
+
+### 🎙 Voice Assistant
+
+Desktop Voice Assistant built using Python Speech Recognition and Automation.
+
+🔗 https://github.com/deepanshu-rai-01/Voice-Assistant
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 🔐 Password Generator
+
+Secure Password Generator using Python.
+
+🔗 https://github.com/deepanshu-rai-01/Password-Generator
+
+</td>
+
+<td>
+
+### 🧮 Python Calculator
+
+Simple Calculator built using Python GUI.
+
+🔗 https://github.com/deepanshu-rai-01/Python-Calculator
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-# 🎯 Career Goal
+# 🎯 Currently Working On
 
-I am looking for opportunities as a Data Analyst where I can apply my analytical thinking and technical skills to solve business problems and create meaningful insights from data.
-
----
-
-# 📫 Contact Me
-
-📧 Email
-
-deepanshurai866@gmail.com
+- 📊 Power BI Dashboards
+- 🐍 Advanced Python Projects
+- 🗄 SQL Data Analysis
+- 📈 Data Visualization
+- 🤖 Automation using Python
 
 ---
 
-# 🏆 Certifications
+# 📜 Certifications
 
 ✔ Python Programming
 
@@ -164,26 +217,38 @@ deepanshurai866@gmail.com
 
 ✔ Power BI Fundamentals
 
-(More certifications coming soon...)
+*(More certifications coming soon...)*
 
 ---
 
-# 🤝 Connect With Me
+# 📫 Connect With Me
 
-GitHub
+📧 **Email**
+
+deepanshurai866@gmail.com
+
+🐙 **GitHub**
 
 https://github.com/deepanshu-rai-01
 
-LinkedIn
+💼 **LinkedIn**
 
-Coming Soon...
-
----
-
-# 💬 Quote
-
-> "Data tells stories. Analysts make them meaningful."
+*(Coming Soon)*
 
 ---
 
-⭐ If you like my work, consider giving a ⭐ to my repositories.
+# 💡 Quote
+
+> **"Data tells a story. My job is to discover it and turn it into business value."**
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+If you like my projects, don't forget to ⭐ Star them.
+
+🚀 *Always Learning • Always Building • Always Improving*
+
+</div>
