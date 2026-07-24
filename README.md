@@ -1,95 +1,153 @@
-# Hi 👋, I'm Deepanshu Rai
+<div align="center">
 
-## 🚀 Aspiring Data Analyst | Python Developer
+# 👋 Hi, I'm Deepanshu Rai
 
-I am a B.Com (Hons.) graduate passionate about Data Analytics, Python programming, and problem-solving. I enjoy building practical projects, analyzing data, and continuously learning new technologies to improve my technical skills.
+### 📊 Data Analyst | Python Developer | Power BI Enthusiast
 
----
+<p>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Data+Analyst;Python+Developer;Power+BI+Dashboard+Creator;Python+%7C+SQL+%7C+Excel+%7C+Power+BI;Turning+Data+into+Business+Insights" />
+</p>
 
-## 💻 Tech Stack
+<p>
+I enjoy transforming raw data into meaningful insights by building interactive dashboards,
+performing data analysis, and solving real-world business problems.
+</p>
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+</div>
 
 ---
 
-## 📂 Featured Projects
+# 🚀 About Me
 
-- 🧮 [Python Calculator](https://github.com/deepanshu-rai-01/Python-Calculator)
-- 🔐 [Password Generator](https://github.com/deepanshu-rai-01/Password-Generator)
-- 🎙 [Voice Assistant](https://github.com/deepanshu-rai-01/Voice-Assistant)
-- 🛗 [Lift Simulation System](https://github.com/deepanshu-rai-01/Lift-Simulation)
-- 💼 [Employee Salary Management System](https://github.com/deepanshu-rai-01/Employee-Salary-System)
-- 📊 [Student Performance Analytics](https://github.com/deepanshu-rai-01/Student-Performance-Analytics)
-- 🐍 [Snake Game](https://github.com/deepanshu-rai-01/Snake-Game)
-- 🚗 [Car Racing Game](https://github.com/deepanshu-rai-01/Car-Racing-Game)
+- 🎓 B.Com (Hons.) Graduate
+- 📊 Aspiring Data Analyst
+- 🐍 Skilled in Python for Data Analysis & Automation
+- 📈 Passionate about Business Intelligence & Dashboard Development
+- 🌱 Currently learning Advanced SQL, DAX & Data Visualization
+- 🎯 Goal: Become a Professional Data Analyst
 
 ---
 
-## 🌱 Currently Learning
+# 🛠️ Tech Stack
 
-- Advanced Python
-- Data Analysis with Pandas
-- Power BI Dashboard Development
-- SQL for Data Analytics
-- Git & GitHub
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
+
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
+
+<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
+
+</p>
 
 ---
 
-## 🎯 Career Objective
+# 📂 Featured Projects
 
-To secure a Data Analyst role where I can apply my analytical thinking, Python programming, SQL, and Power BI skills to solve real-world business problems while continuously learning and growing.
+### 📊 Sales Data Analysis Dashboard
+
+- Python
+- SQL
+- Excel
+- Power BI
+- Interactive Dashboard
+- Business Insights
 
 ---
 
-## 📫 Contact
+### 👨‍💼 HR Analytics Dashboard *(Coming Soon)*
 
-📧 Email: **deepanshurai866@gmail.com**
+Employee Attrition Analysis using Power BI
 
 ---
 
-⭐ Thank you for visiting my GitHub profile!
+### 🛒 E-Commerce Sales Dashboard *(Coming Soon)*
 
----------------------
+Sales Performance & KPI Dashboard
 
-![GitHub Streak](https://streak-stats.demolab.com?user=deepanshu-rai-01&theme=tokyonight)
+---
 
--------------------------
-## 🏆 Certifications
+### 💻 Python Projects
+
+- 🎙 Voice Assistant
+- 🐍 Snake Game
+- 🔐 Password Generator
+- 🧮 Python Calculator
+- 💼 Employee Salary Management System
+- 🛗 Lift Simulation System
+- 📊 Student Performance Analytics
+
+---
+
+# 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=deepanshu-rai-01&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshu-rai-01&layout=compact&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=deepanshu-rai-01&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+[![Deepanshu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=deepanshu-rai-01&theme=tokyo-night)](https://github.com/deepanshu-rai-01)
+
+---
+
+# 📚 Currently Learning
+
+- Advanced SQL
+- Power BI
+- DAX
+- Python for Data Analysis
+- Dashboard Design
+- Business Analytics
+
+---
+
+# 🏆 Certifications
 
 - Python Programming
 - SQL Basics
 - Power BI Fundamentals
 
-*(Update this section as you earn more certificates.)*
+---
+
+# 📫 Connect With Me
+
+📧 **deepanshurai866@gmail.com**
+
+🐙 **GitHub**
+https://github.com/deepanshu-rai-01
+
+💼 **LinkedIn**
+*(Will be added soon)*
 
 ---
 
-## 🤝 Connect With Me
+<div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-deepanshu--rai--01-181717?style=for-the-badge&logo=github)](https://github.com/deepanshu-rai-01)
+### ⭐ "Turning Raw Data into Meaningful Business Insights."
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Coming_Soon-0A66C2?style=for-the-badge&logo=linkedin)]()
-
----
-
-## 📊 Profile Views
-
-![Profile Views](https://komarev.com/ghpvc/?username=deepanshu-rai-01&label=Profile%20Views&color=0e75b6&style=flat)
-
----
-
-## 💡 Quote
-
-> "Consistency beats talent when talent doesn't work consistently."
-
----
-
-### ⭐ Thanks for visiting my profile!
-If you like my projects, don't forget to ⭐ star the repositories.
+</div>
