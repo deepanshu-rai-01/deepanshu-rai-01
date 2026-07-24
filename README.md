@@ -2,15 +2,23 @@
 
 # 👋 Hi, I'm Deepanshu Rai
 
-### 📊 Data Analyst | Python Developer | Power BI Enthusiast
+### 📊 Data Analyst | Python Developer | SQL | Power BI | Excel
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1200&color=00C4FF&center=true&vCenter=true&width=850&lines=Turning+Raw+Data+Into+Business+Insights;Python+%7C+SQL+%7C+Power+BI+%7C+Excel;Building+Real+World+Data+Analytics+Projects;Always+Learning+Something+New+🚀" alt="Typing SVG" />
 
 <p>
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=Data+Analyst;Python+Developer;Power+BI+Dashboard+Creator;Python+%7C+SQL+%7C+Excel+%7C+Power+BI;Turning+Data+into+Business+Insights" />
+I enjoy transforming raw data into meaningful insights through data analysis,
+interactive dashboards, and business intelligence solutions.
 </p>
 
 <p>
-I enjoy transforming raw data into meaningful insights by building interactive dashboards,
-performing data analysis, and solving real-world business problems.
+
+<img src="https://komarev.com/ghpvc/?username=deepanshu-rai-01&label=Profile+Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/deepanshu-rai-01?style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/stars/deepanshu-rai-01?style=for-the-badge"/>
+
 </p>
 
 </div>
@@ -19,24 +27,37 @@ performing data analysis, and solving real-world business problems.
 
 # 🚀 About Me
 
-- 🎓 B.Com (Hons.) Graduate
-- 📊 Aspiring Data Analyst
-- 🐍 Skilled in Python for Data Analysis & Automation
-- 📈 Passionate about Business Intelligence & Dashboard Development
-- 🌱 Currently learning Advanced SQL, DAX & Data Visualization
-- 🎯 Goal: Become a Professional Data Analyst
+🎓 **Education**
+
+- B.Com (Hons.)
+
+📊 **Career Goal**
+
+- Become a Professional Data Analyst
+
+💡 **What I Love**
+
+- Data Analysis
+- Dashboard Development
+- Business Intelligence
+- Problem Solving
+
+🌱 **Currently Learning**
+
+- Advanced SQL
+- Power BI (DAX)
+- Data Visualization
+- Statistics for Data Analytics
 
 ---
 
-# 🛠️ Tech Stack
+# 🛠 Tech Stack
 
-<p align="center">
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,mysql,git,github,vscode"/>
 
-</p>
-
-<p align="center">
+<br><br>
 
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
@@ -46,66 +67,80 @@ performing data analysis, and solving real-world business problems.
 
 <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
 
-</p>
+</div>
 
 ---
 
-# 📂 Featured Projects
+# 📌 Featured Projects
 
-### 📊 Sales Data Analysis Dashboard
+## 📊 Sales Data Analysis Dashboard
 
-- Python
-- SQL
-- Excel
-- Power BI
-- Interactive Dashboard
-- Business Insights
+✔ Python
 
----
+✔ SQL
 
-### 👨‍💼 HR Analytics Dashboard *(Coming Soon)*
+✔ Excel
 
-Employee Attrition Analysis using Power BI
+✔ Power BI
 
----
+✔ Interactive Business Dashboard
 
-### 🛒 E-Commerce Sales Dashboard *(Coming Soon)*
-
-Sales Performance & KPI Dashboard
+🔗 https://github.com/deepanshu-rai-01/Sales-Data-Analysis
 
 ---
 
-### 💻 Python Projects
+## 👨‍💼 HR Analytics Dashboard *(Coming Soon)*
 
-- 🎙 Voice Assistant
-- 🐍 Snake Game
-- 🔐 Password Generator
+Employee Attrition Analysis
+
+Power BI Dashboard
+
+Interactive KPIs
+
+---
+
+## 🛒 E-Commerce Sales Dashboard *(Coming Soon)*
+
+Sales Performance Analysis
+
+Customer Insights
+
+Revenue Dashboard
+
+---
+
+## 💻 Python Projects
+
 - 🧮 Python Calculator
+- 🔐 Password Generator
+- 🎙 Voice Assistant
+- 🛗 Lift Simulation
 - 💼 Employee Salary Management System
-- 🛗 Lift Simulation System
 - 📊 Student Performance Analytics
+- 🐍 Snake Game
+- 🚗 Car Racing Game
 
 ---
 
-# 📈 GitHub Stats
+# 📈 GitHub Analytics
 
-<p align="center">
+<div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=deepanshu-rai-01&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=deepanshu-rai-01&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshu-rai-01&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deepanshu-rai-01&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
 # 🔥 GitHub Streak
 
-<p align="center">
+<div align="center">
 
-<img src="https://streak-stats.demolab.com?user=deepanshu-rai-01&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=deepanshu-rai-01&theme=tokyonight&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
@@ -115,39 +150,82 @@ Sales Performance & KPI Dashboard
 
 ---
 
-# 📚 Currently Learning
+# 🏆 GitHub Trophies
 
-- Advanced SQL
-- Power BI
-- DAX
-- Python for Data Analysis
-- Dashboard Design
-- Business Analytics
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=deepanshu-rai-01&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
+
+</div>
 
 ---
 
-# 🏆 Certifications
+# 📚 Current Learning Journey
 
-- Python Programming
-- SQL Basics
-- Power BI Fundamentals
+```text
+██████████████████████░░░░░░░░ 70%
+
+✅ Python
+✅ Excel
+✅ Pandas
+✅ NumPy
+✅ Git & GitHub
+✅ Power BI
+
+🔄 Advanced SQL
+🔄 DAX
+🔄 Statistics
+
+⏳ Machine Learning
+```
+
+---
+
+# 🎯 2026 Goals
+
+- Build 15+ Real-World Data Analytics Projects
+- Master SQL
+- Master Power BI & DAX
+- Learn Machine Learning Basics
+- Contribute to Open Source
+- Secure a Data Analyst Role
 
 ---
 
 # 📫 Connect With Me
 
-📧 **deepanshurai866@gmail.com**
+📧 **Email**
+
+deepanshurai866@gmail.com
 
 🐙 **GitHub**
+
 https://github.com/deepanshu-rai-01
 
 💼 **LinkedIn**
-*(Will be added soon)*
+
+*(Updating Soon)*
 
 ---
 
 <div align="center">
 
-### ⭐ "Turning Raw Data into Meaningful Business Insights."
+## 💡 Favourite Quote
+
+### "Without data, you're just another person with an opinion."
+
+— W. Edwards Deming
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Turning Raw Data into Meaningful Business Insights.
+
+**Thanks for visiting my profile!**
+
+If you like my work, consider ⭐ starring my repositories.
 
 </div>
